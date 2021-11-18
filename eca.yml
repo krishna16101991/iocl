@@ -1,6 +1,6 @@
 ---
 - name: execute script and get result back.
-  hosts: 52.172.232.10
+  hosts: all
   vars: 
       variable1: eca
   tasks:
